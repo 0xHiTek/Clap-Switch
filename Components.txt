@@ -1,0 +1,9 @@
+Arduino Uno R3
+
+Sound sensor module (e.g., KY-037 / KY-038)
+
+1× LED (any color)
+
+220 Ω resistor
+
+Breadboard + jumper wires
