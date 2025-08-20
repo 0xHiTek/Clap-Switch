@@ -1,0 +1,11 @@
+Sound Sensor:
+
+VCC → 5V
+
+GND → GND
+
+OUT → D2
+
+LED:
+
+D8 → LED anode → 220 Ω → GND
